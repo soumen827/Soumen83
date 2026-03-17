@@ -56,7 +56,7 @@
 ## 🎯 Goals
 
 - 💡 Become a top Software Engineer  
-- 🚀 Work at top tech companies (Google-level goal 😉)  
+- 🚀 Work at top tech companies 
 - 📈 Build impactful real-world projects  
 
 ---
