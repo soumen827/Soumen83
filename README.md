@@ -7,7 +7,7 @@
 🎓 B.Tech ECE Student at **IEM Kolkata**  
 💻 Passionate about **Software Development, Java & Problem Solving**  
 🚀 Interested in **Web Development, Embedded Systems & AI/ML**  
-📚 Strong in **DSA, OOP & DBMS**  
+📚 Strong in **DSA, OOP & Python**  
 🔧 Always learning and building new projects  
 
 ✨ *"Code. Learn. Build. Repeat."*
